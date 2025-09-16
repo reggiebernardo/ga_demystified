@@ -1,0 +1,5 @@
+# ignore everything in ./github.com, ./gitlab.com, ./raw.githubusercontent.com/, and __pycache__ directories
+/github.com/
+/gitlab.com/
+/raw.githubusercontent.com/
+/__pycache__/
